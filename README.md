@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 #### 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/library-management-system.git
+https://github.com/NaveenRoy10/library-management-system.git
 cd library-management-system
 ```
 
