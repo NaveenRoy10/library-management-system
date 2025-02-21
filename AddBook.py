@@ -37,8 +37,8 @@ def addBook():
     root.geometry("600x500")
 
    
-    mypass = "884878"
-    mydatabase="db"
+    mypass = ""
+    mydatabase=""
 
     con = pymysql.connect(host="localhost",user="root",password=mypass,database=mydatabase)
     cur = con.cursor()
