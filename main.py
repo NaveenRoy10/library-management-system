@@ -9,8 +9,8 @@ from IssueBook import *
 from ReturnBook import *
 
 # MySQL connection credentials
-mypass = "884878"
-mydatabase = "db"
+mypass = ""
+mydatabase = ""
 
 # Establish MySQL connection
 con = pymysql.connect(host="localhost", user="root", password=mypass, database=mydatabase)
